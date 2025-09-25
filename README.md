@@ -2,8 +2,6 @@
 
 A simple yet effective Python script designed to extract cryptocurrency ticker symbols (e.g., `BTC`, `ETH`, `ARKM`) from unstructured text, such as news articles, social media posts, or announcements.
 
-This project demonstrates core skills in **Python programming**, **Regular Expressions (RegEx)**, and **text data processing**, which are highly valuable for data scraping, automation, and data analysis tasks.
-
 ### Overview
 
 In the fast-paced world of cryptocurrency, news and announcements often mention new trading pairs or trending assets by their ticker symbols. This script provides a straightforward solution to automatically identify and extract these symbols from a given text, filtering out common non-target tickers like stablecoins or fiat currencies.
