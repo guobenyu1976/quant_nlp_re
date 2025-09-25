@@ -24,11 +24,11 @@ The script operates in two main steps:
 
 ### How to Use
 
-1.  Clone the repository or save the script file (e.g., `extractor.py`).
+1.  Clone the repository or save the script file .
 2.  Ensure you have Python 3 installed.
 3.  Run the script from your terminal:
     ```bash
-    python extractor.py
+    python quant_r expression v2.py
     ```
 4.  Modify the `txt_news` variable inside the script to process your own text.
 
