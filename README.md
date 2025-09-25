@@ -1,6 +1,13 @@
-# Crypto Ticker Extractor from Text
+# High-Speed Crypto Trading Signal Extractor
+### A Proof-of-Concept for an Event-Driven Trading Strategy
 
-A simple yet effective Python script designed to extract cryptocurrency ticker symbols (e.g., `BTC`, `ETH`, `ARKM`) from unstructured text, such as news articles, social media posts, or announcements.
+![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue.svg)
+![Strategy](https://img.shields.io/badge/Strategy-Event--Driven-orange.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+This project demonstrates the core logic of a **high-speed, event-driven trading strategy**. It's designed to instantly capture potential trading signals, like cryptocurrency tickers, from real-time text data such as news headlines, social media posts (e.g., a tweet from Elon Musk), or official announcements.
+
+While simple, this approach is **powerful and effective** because in algorithmic trading, **speed is alpha**. The goal is not complex linguistic analysis, but the immediate identification of an asset being mentioned, allowing a trading bot to act nanoseconds ahead of the market.
 
 ### Overview
 
