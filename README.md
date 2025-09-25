@@ -32,34 +32,3 @@ The script operates in two main steps:
     ```
 4.  Modify the `txt_news` variable inside the script to process your own text.
 
-### Skills Demonstrated
-
-This project showcases my proficiency in:
-
--   **Python Programming**: Writing clean, functional, and reusable Python code.
--   **Regular Expressions (RegEx)**: Crafting precise RegEx patterns to parse and extract specific information from unstructured text. This is a critical skill for any web scraping or data cleaning task.
--   **Text Data Processing**: Manipulating and analyzing string data to achieve a specific outcome.
--   **Problem-Solving**: Breaking down a problem (finding tickers in text) into logical, programmable steps.
-
-### Potential Improvements
-
-This script serves as a strong foundation. For a production environment, I would suggest the following enhancements:
-
--   **Dynamic Blacklist**: Move the hardcoded blacklist (`USDC`, `RUB`, etc.) to an external configuration file (e.g., `.txt` or `.json`) for easier management.
--   **Refined Filtering Logic**: The current filtering method can be made more efficient and Pythonic, for example, by using a `set` for faster lookups: `if item not in blacklist_set:`.
--   **API Integration**: Wrap the logic in a simple API (using Flask or FastAPI) to serve extraction requests over the network.
--   **Advanced Validation**: Cross-reference extracted tickers with an external API (like CoinGecko or CoinMarketCap) to validate if they are actual, existing cryptocurrencies.
-
----
-
-### Hire Me on Upwork!
-
-I am a Python developer specializing in **web scraping, data extraction, and process automation**. If you need to turn messy text into structured data, automate repetitive tasks, or build custom data pipelines, I can help.
-
-**Let's build something great together!**
-
--   **[View my Upwork Profile]([Your Upwork Profile Link])**
--   **[Connect on LinkedIn / View my Portfolio]([Your LinkedIn/Portfolio Link])**
-
----
-
